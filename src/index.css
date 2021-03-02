@@ -1,0 +1,11 @@
+body{margin-left: 0; margin-right: 0;}
+header{background: #FFF; margin: 10px 0;}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item.logo-wrp{padding-right: 0;}
+.logo-wrp img{max-width: 50%; padding-right: 0;}
+#use-autocomplete-demo li:active{background: red;}
+.MuiGrid-spacing-xs-3 > .MuiGrid-item.searchBox-wrp{padding: 25px 0 0 0;}
+.movie-name{text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
+.details-img-wrp img{width: 100%;}
+.title{color: #d04c42; margin-top: 0; font-size: 35px;}
+.actors{font-size: 21px; color: #645555; margin: 0 0 25px 0; line-height:35px; font-weight: 400;}
+.actors .keyname{color: #2c2c27; font-weight: 500;}
